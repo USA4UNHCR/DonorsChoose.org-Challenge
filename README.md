@@ -15,7 +15,7 @@ We believe we have a unique role to play in improving the experience for refugee
 ## What questions are we asking?
   
 #### I. How well are we supporting refugee students and the educators that serve them today?
-We want to be able to identify "funding deserts" across the U.S. -- are there certain states, cities, or districts where there are large refugee student populations that are not receiving DonorsChoose.org funding? 
+We want to identify "funding deserts" across the U.S. -- are there certain states, cities, or districts where there are large refugee student populations that are not receiving DonorsChoose.org funding? 
 <p>
   <u>This task could involve:</u>
   
@@ -41,13 +41,20 @@ Teachers often use DonorsChoose.org not only to get the resources they need for 
   
     1. Analyzing survey data
     2. Using NLP to analyze project essays and resources to identify trends in the type of resources teachers serving refugee students need
-    3. Building a recommendation system that suggestions relevant projects to teachers based on their attributes
+    3. Building a recommendation system that suggests relevant projects to teachers based on their attributes
 
 
 ## What data do we have?
 
+  | Question                                                                                                                                                | Internal datasets                                               | External datasets                                                                 |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------------------|
+| I. How well are we supporting refugee students and the educators that serve them today?                                                                          | Transactional data about projects and donation; Survey data | Supplemental school data; Supplemental donor data; Refugee resettlement data. |
+| II. Who are our donors? Which donors are most likely to fund projects supporting refugee students? What type of language in a project essay is most effectiviie? | Transactional data about projects and donation              | Supplemental school data; Supplemental donor data; Refugee resettlement data. |
+| III. What do teachers who serve refugees need to be successful in the classroom?                                                                                 | Transactional data about projects and donation; Survey data | Supplemental school data; Refugee resettlement data.                          |
   
  #### I. Internal datasets
+ <p>
+
  <b>Transactional data about projects and donations.</b> Every project that is posted on DonorsChoose.org includes a detailed project essay, describing the students in the classroom and the resources or experiences the teacher is requesting. It also includes detailed resource information about the materials the teacher is requesting, (down to the SKU or ASIN number). We also every donation, including the amount, whether we think the donor knew the teacher personally, and the donation message they left the classroom.
  <p>
  <b>Survey data.</b> We surveyed a group of teachers across the country, receiving around 1,000 responses, to find out more about who serves refugee students, how those students perform academically compared to their peers, what services are provided to those students, and teachers' general literacy around refugee issues.
@@ -58,4 +65,4 @@ Teachers often use DonorsChoose.org not only to get the resources they need for 
 <p>
 <b>Supplemental donor data. </b> We've obtained some additional data about our first-time donors, including their age, gender, and political affiliations.
 <p>
-<b>Refugee resettlement ata.</b> This is data we pulled from U.S. government sites on the number of refugees resettled, by State.
+<b>Refugee resettlement data. </b> This is data we pulled from U.S. government sites on the number of refugees resettled, by State.

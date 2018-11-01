@@ -2,17 +2,23 @@
 <p>
 <p>
   
-# DonorsChoose.org Challenge
+# DonorsChoose.org Challenge: 
+
+# Supporting Educators & Refugee Students
 <p>
   
-## Who are we?
+## Who We Are
 Teachers come to DonorsChoose.org to request the materials and experiences they need most for their classrooms, and donors give to the projects that inspire them. To date, 3,365,526 people and partners have funded 1,231,234 projects on the site, reaching 29,584,677 students and making DonorsChoose.org the leading platform for supporting U.S. public schools. DonorsChoose.org is the only crowdfunding platform that vets each request, delivers materials directly to schools, and captures the impact of every funded project with photos, thank yous, and a cost report showing how each dollar was spent.
 <p>
-  
-## Why are we doing this?
 We believe we have a unique role to play in improving the experience for refugee students in public schools across the country, and for the educators who serve them. 
+<p>
+  
+  #### Challenge Leads
+  Barbara Cvenic - @barbara - Director, Data Science & Analytics
+  <p>
+  Amit Wadhera - @amit - Sr. Director, Customer Insights
 
-## What questions are we asking?
+## Challenge Objectives
   
 #### I. How well are we supporting refugee students and the educators that serve them today?
 We want to identify "funding deserts" across the U.S. -- are there certain states, cities, or districts where there are large refugee student populations that are not receiving DonorsChoose.org funding? 
@@ -44,25 +50,12 @@ Teachers often use DonorsChoose.org not only to get the resources they need for 
     3. Building a recommendation system that suggests relevant projects to teachers based on their attributes
 
 
-## What data do we have?
+## The Data Available
 
-  | Question                                                                                                                                                | Internal datasets                                               | External datasets                                                                 |
+  | Dataset                                                                                                                                                | Details                                               | Challenges                                                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------------------|
-| I. How well are we supporting refugee students and the educators that serve them today?                                                                          | Transactional data about projects and donation; Survey data | Supplemental school data; Supplemental donor data; Refugee resettlement data |
-| II. Who are our donors? Which donors are most likely to fund projects supporting refugee students? What type of language in a project essay is most effectiviie? | Transactional data about projects and donation              | Supplemental school data; Supplemental donor data; Refugee resettlement data |
-| III. What do teachers who serve refugees need to be successful in the classroom?                                                                                 | Transactional data about projects and donation; Survey data | Supplemental school data; Refugee resettlement data                          |
-  
- #### I. Internal datasets
- <p>
-
- <b>Transactional data about projects and donations.</b> Every project that is posted on DonorsChoose.org includes a detailed project essay, describing the students in the classroom and the resources or experiences the teacher is requesting. It also includes detailed resource information about the materials the teacher is requesting, (down to the SKU or ASIN number). We also every donation, including the amount, whether we think the donor knew the teacher personally, and the donation message they left the classroom.
- <p>
- <b>Survey data.</b> We surveyed a group of teachers across the country, receiving around 1,000 responses, to find out more about who serves refugee students, how those students perform academically compared to their peers, what services are provided to those students, and teachers' general literacy around refugee issues.
-    
- #### II. External datasets
-<p>
-<b>Supplemental school data. </b> We obtain some additional data about the schools our teachers come from, including whether those schools have an ELL program, the percentage of students in the district who are in ELL programs, and geographic information (city, state, district, metro type).
-<p>
-<b>Supplemental donor data. </b> We've obtained some additional data about our first-time donors, including their age, gender, and political affiliations.
-<p>
-<b>Refugee resettlement data. </b> This is data we pulled from U.S. government sites on the number of refugees resettled, by State.
+| <b>Transactional data about projects and donations<b>                                                                          | Every project that is posted on DonorsChoose.org includes a detailed project essay, describing the students in the classroom and the resources or experiences the teacher is requesting. <p><p>It also includes detailed resource information about the materials the teacher is requesting, (down to the SKU or ASIN number). We also every donation, including the amount, whether we think the donor knew the teacher personally, and the donation message they left the classroom. | I, II, & III |
+  | <b>Survey data</b> | We surveyed a group of teachers across the country, receiving around 1,000 responses, to find out more about who serves refugee students, how those students perform academically compared to their peers, what services are provided to those students, and teachers' general literacy around refugee issues. | I & III |
+| <b>School data</b>                                                                                |Some additional data about the schools our teachers come from, including whether those schools have an ELL program, the percentage of students in the district who are in ELL programs, and geographic information (city, state, district, metro type). | I & III |
+| <b>Supplemental donor data</b>                                                                                |We've obtained some additional data about our first-time donors, including their age, gender, and political affiliations.| II |
+| <b>Refugee resettlement data</b>                                                                                |This is data we pulled from U.S. government sites on the number of refugees resettled, by State.| I |

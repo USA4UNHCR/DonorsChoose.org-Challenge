@@ -1,7 +1,3 @@
-# --- in progress ---
-<p>
-<p>
-  
 # DonorsChoose.org Challenge: 
 
 # Supporting Educators & Refugee Students

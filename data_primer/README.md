@@ -15,5 +15,5 @@
 ## II. [Schema](https://github.com/USA4UNHCR/Education-Challenge/blob/master/data_primer/data_schema.pdf)
 <p><i>Map of how tables connect.</i>
   
-## III. Additional Business Context
+## III. [Additional Business Context](https://github.com/USA4UNHCR/Education-Challenge/blob/master/data_primer/Business%20Context.pdf)
   <p><i>Detailed information about some of the nuances of the data and any business rules or data inconsistencies that might impact analysis.</i>

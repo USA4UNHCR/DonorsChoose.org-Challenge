@@ -48,6 +48,9 @@ Teachers often use DonorsChoose.org not only to get the resources they need for 
 
 ## The Data Available
 
+https://s3.amazonaws.com/hackabetterworld2018/donorschooseorg_data.zip
+
+
   | Dataset                                                                                                                                                | Details                                               | Challenges                                                                 |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------|-------------------------------------------------------------------------------|
 | <b>Transactional data about projects and donations<b>                                                                          | Every project that is posted on DonorsChoose.org includes a detailed project essay, describing the students in the classroom and the resources or experiences the teacher is requesting. <p><p>It also includes detailed resource information about the materials the teacher is requesting, (down to the SKU or ASIN number). We also every donation, including the amount, whether we think the donor knew the teacher personally, and the donation message they left the classroom. | I, II, & III |

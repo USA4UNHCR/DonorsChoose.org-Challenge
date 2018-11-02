@@ -4,14 +4,14 @@
 ## I. Data Dictionaries
   <p><i>Detailed information on each column in each table.</i>
   
-    - all tables
-    - project
-    - resource
-    - school
-    - donation
-    - donor
-    - teacher_survey
-    - resettlement_data
+   - [all tables](https://github.com/USA4UNHCR/Education-Challenge/blob/master/data_primer/datadictionary_all_tables.pdf)
+   - project
+   - resource
+   - school
+   - donation
+   - donor
+   - teacher_survey
+   - resettlement_data
   
 ## II. [Schema](https://github.com/USA4UNHCR/Education-Challenge/blob/master/data_primer/data_schema.pdf)
 <p><i>Map of how tables connect.</i>

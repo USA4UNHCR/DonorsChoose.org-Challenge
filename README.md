@@ -48,7 +48,7 @@ Teachers often use DonorsChoose.org not only to get the resources they need for 
 
 ## The Data Available
 
-https://s3.amazonaws.com/hackabetterworld2018/donorschooseorg_data.zip
+https://s3.amazonaws.com/hackabetterworld2018/donorschooseorg_challenge.zip
 
 
   | Dataset                                                                                                                                                | Details                                               | Challenges                                                                 |

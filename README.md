@@ -57,4 +57,9 @@ https://s3.amazonaws.com/hackabetterworld2018/donorschooseorg_challenge.zip
   | <b>Survey data</b> | We surveyed a group of teachers across the country, receiving around 1,000 responses, to find out more about who serves refugee students, how those students perform academically compared to their peers, what services are provided to those students, and teachers' general literacy around refugee issues. | I & III |
 | <b>School data</b>                                                                                |Some additional data about the schools our teachers come from, including whether those schools have an ELL program, the percentage of students in the district who are in ELL programs, and geographic information (city, state, district, metro type). | I & III |
 | <b>Supplemental donor data</b>                                                                                |We've obtained some additional data about our first-time donors, including their age, gender, and political affiliations.| II |
-| <b>Refugee resettlement data</b>                                                                                |This is data we pulled from U.S. government sites on the number of refugees resettled, by State.| I |
+| <b>Refugee resettlement data</b>                                                                                |This is data we pulled from U.S. government sites on the number of refugees resettled, by State.| I, II, & III |
+  
+  <p>
+  Additional resettlement data by city: http://ireports.wrapsnet.org/
+  <p>
+  Additional resettlement data by age: https://www.dhs.gov/immigration-statistics/yearbook
